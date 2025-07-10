@@ -19,5 +19,8 @@ Dự án sử dụng mạng nơ-ron hồi tiếp **LSTM (Long Short-Term Memory)
 - Sử dụng model đã lưu (.h5) đưa vào 1 câu nhận xét bất kì
 - Tiền xử lý dữ liệu đưa vào: làm sạch, mã hóa, padding
 - Đưa ra nhận xét cảm xúc
+# Demo app
+ - Link demo : https://ba3d8bf8f6aa106064.gradio.live/
+ - nhập 1 câu bất kì đưa ra dự đoán các nhãn : sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5)
 # Liên hệ 
 Bạn có thể liên hệ qua email : Anhlam2k44@gmail.com
